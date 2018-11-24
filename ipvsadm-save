@@ -1,0 +1,3 @@
+-A -t node1:http -s wrr
+-a -t node1:http -r node2:http -g -w 2
+-a -t node1:http -r node3:http -g -w 2
