@@ -6,3 +6,4 @@ set-keepalived MASTER : 设置主节点的keepalived；
 set-keepalived BACKUP ： 设置从节点的keepalived；
 keepalived.conf 为keepalived主配置文件
 notify.sh 是通知脚本
+这只是一个测试脚本！
